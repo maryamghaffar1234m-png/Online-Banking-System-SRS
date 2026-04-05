@@ -25,25 +25,17 @@ This project contains the Software Requirements Specification (SRS) for an Onlin
 
 ### 🔹 Use Case Diagram
 
-![Use Case](diagrams/usecase-diagram.png)
-
 ### 🔹 Class Diagram
-
-![Class Diagram](diagrams/class-diagram.png)
 
 ### 🔹 Sequence Diagram
 
-![Sequence Diagram](diagrams/sequence-diagram.png)
-
-### 🔹 ER Diagram
-
-![ER Diagram](diagrams/er-diagram.png)
+### 🔹 ER Diagram, Activity Diagram, Context Diagram, Data Flow Diagram, State Diagram
 
 ---
 
 ## 📄 Documentation
 
-Full SRS document is available in the **docs** folder.
+Full SRS document is available in the pdf.
 
 ---
 
