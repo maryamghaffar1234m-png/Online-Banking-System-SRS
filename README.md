@@ -19,8 +19,6 @@ This project contains the Software Requirements Specification (SRS) for an Onlin
 * Admin
 * Bank Staff
 
----
-
 ## 📊 Diagrams
 
 ### 🔹 Use Case Diagram
@@ -31,13 +29,9 @@ This project contains the Software Requirements Specification (SRS) for an Onlin
 
 ### 🔹 ER Diagram, Activity Diagram, Context Diagram, Data Flow Diagram, State Diagram
 
----
-
 ## 📄 Documentation
 
 Full SRS document is available in the pdf.
-
----
 
 ## 🛠 Tools Used
 
