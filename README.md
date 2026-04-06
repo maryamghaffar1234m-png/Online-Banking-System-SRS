@@ -34,7 +34,6 @@ This project contains the Software Requirements Specification (SRS) for an Onlin
 Full SRS document is available in the pdf.
 
 ## 🛠 Tools Used
-
 * MS Word
 * Draw.io / StarUML / Visio
 
